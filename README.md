@@ -9,7 +9,7 @@ He would also like to know how well categories are performing as well as differe
 Grant also noted that Profit is 30% of the selling price.
 
 
-## Solved by using Excel & Tableau 
+## Solved by using 
 
 <img align="centre" alt="codeSTACKr | Tableau" width="49px" src="https://mactorrents.io/wp-content/uploads/2019/09/1567360414_224_excel_2016_for_mac_15_logo_icon.jpg" />       <img align="centre" alt="codeSTACKr | Tableau" width="49px" src="https://apps.joltteam.com/cdn/brikbuild/tableau-icon-pixel-art-5a5f5c4d755c41916225ab5e.brickImg.jpg" />
 
