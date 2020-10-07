@@ -1,3 +1,5 @@
+![Excel](https://img.shields.io/badge/Tool-Excel-blue) ![Tableau](https://img.shields.io/badge/Tool-Tableau-yellowgreen) ![Status](https://img.shields.io/badge/Status-Completed-success) ![DA](https://img.shields.io/badge/Data-Analytics-ff69b4)
+
 # Discount-Mart
 ![Logos](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfJHfrfQfBqvmv518drh5rCLEdWafbvQkQow&usqp=CAU)
 
